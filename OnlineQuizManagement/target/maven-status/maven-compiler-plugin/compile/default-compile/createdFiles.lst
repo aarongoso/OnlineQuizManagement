@@ -1,0 +1,7 @@
+com\mycompany\onlinequizmanagement\resources\QuizResource.class
+com\mycompany\onlinequizmanagement\model\Quiz.class
+com\mycompany\onlinequizmanagement\resources\JakartaEE10Resource.class
+com\mycompany\onlinequizmanagement\JakartaRestConfiguration.class
+com\mycompany\onlinequizmanagement\service\QuizService.class
+com\mycompany\onlinequizmanagement\auth\AuthFilter.class
+com\mycompany\onlinequizmanagement\model\Question.class
